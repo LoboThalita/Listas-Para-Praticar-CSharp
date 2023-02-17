@@ -1,0 +1,15 @@
+C:\Users\thalita.paz\Documents\BkBank Academy\Lista de exercicios\Lista 2\Resoluções\ex1\exe13\bin\Debug\net6.0\exe13.exe
+C:\Users\thalita.paz\Documents\BkBank Academy\Lista de exercicios\Lista 2\Resoluções\ex1\exe13\bin\Debug\net6.0\exe13.deps.json
+C:\Users\thalita.paz\Documents\BkBank Academy\Lista de exercicios\Lista 2\Resoluções\ex1\exe13\bin\Debug\net6.0\exe13.runtimeconfig.json
+C:\Users\thalita.paz\Documents\BkBank Academy\Lista de exercicios\Lista 2\Resoluções\ex1\exe13\bin\Debug\net6.0\exe13.dll
+C:\Users\thalita.paz\Documents\BkBank Academy\Lista de exercicios\Lista 2\Resoluções\ex1\exe13\bin\Debug\net6.0\exe13.pdb
+C:\Users\thalita.paz\Documents\BkBank Academy\Lista de exercicios\Lista 2\Resoluções\ex1\exe13\obj\Debug\net6.0\exe13.csproj.AssemblyReference.cache
+C:\Users\thalita.paz\Documents\BkBank Academy\Lista de exercicios\Lista 2\Resoluções\ex1\exe13\obj\Debug\net6.0\exe13.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thalita.paz\Documents\BkBank Academy\Lista de exercicios\Lista 2\Resoluções\ex1\exe13\obj\Debug\net6.0\exe13.AssemblyInfoInputs.cache
+C:\Users\thalita.paz\Documents\BkBank Academy\Lista de exercicios\Lista 2\Resoluções\ex1\exe13\obj\Debug\net6.0\exe13.AssemblyInfo.cs
+C:\Users\thalita.paz\Documents\BkBank Academy\Lista de exercicios\Lista 2\Resoluções\ex1\exe13\obj\Debug\net6.0\exe13.csproj.CoreCompileInputs.cache
+C:\Users\thalita.paz\Documents\BkBank Academy\Lista de exercicios\Lista 2\Resoluções\ex1\exe13\obj\Debug\net6.0\exe13.dll
+C:\Users\thalita.paz\Documents\BkBank Academy\Lista de exercicios\Lista 2\Resoluções\ex1\exe13\obj\Debug\net6.0\refint\exe13.dll
+C:\Users\thalita.paz\Documents\BkBank Academy\Lista de exercicios\Lista 2\Resoluções\ex1\exe13\obj\Debug\net6.0\exe13.pdb
+C:\Users\thalita.paz\Documents\BkBank Academy\Lista de exercicios\Lista 2\Resoluções\ex1\exe13\obj\Debug\net6.0\exe13.genruntimeconfig.cache
+C:\Users\thalita.paz\Documents\BkBank Academy\Lista de exercicios\Lista 2\Resoluções\ex1\exe13\obj\Debug\net6.0\ref\exe13.dll
