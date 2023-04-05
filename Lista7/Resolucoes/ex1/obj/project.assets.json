@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\thalita.paz\\Documents\\BkBank Academy\\C#\\Lista de exercicios\\Lista7\\Resolucoes\\ex1\\ex1.csproj",
+      "projectUniqueName": "C:\\Users\\thalita.paz\\Documents\\GitHub\\Listas-Para-Praticar-CSharp\\Lista7\\Resolucoes\\ex1\\ex1.csproj",
       "projectName": "ex1",
-      "projectPath": "C:\\Users\\thalita.paz\\Documents\\BkBank Academy\\C#\\Lista de exercicios\\Lista7\\Resolucoes\\ex1\\ex1.csproj",
+      "projectPath": "C:\\Users\\thalita.paz\\Documents\\GitHub\\Listas-Para-Praticar-CSharp\\Lista7\\Resolucoes\\ex1\\ex1.csproj",
       "packagesPath": "C:\\Users\\thalita.paz\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\thalita.paz\\Documents\\BkBank Academy\\C#\\Lista de exercicios\\Lista7\\Resolucoes\\ex1\\obj\\",
+      "outputPath": "C:\\Users\\thalita.paz\\Documents\\GitHub\\Listas-Para-Praticar-CSharp\\Lista7\\Resolucoes\\ex1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\thalita.paz\\AppData\\Roaming\\NuGet\\NuGet.Config",
